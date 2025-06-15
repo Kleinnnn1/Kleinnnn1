@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kenneth Jhun N. Balino</h1>
+<h3 align="center">A Passionate Full-Stack Web Developer from 🇵🇭 Philippines</h3>
 
-<!--
-**Kleinnnn1/Kleinnnn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kleinnnn1&show_icons=true&theme=radical" style="width: 520px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleinnnn1&layout=compact&theme=radical" style="width: 400px;" />
+</div>
+
+
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+
+  <!-- CMS & Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva" />
+
+  <!-- JS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://balino-kenn-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="mailto:kennbalino@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kennbalino@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/kenneth-jhun-n-balino" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kenneth_Balino-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+### 💬 Fun Fact
+
+> I once volunteered as a **church construction laborer**, and now I’m building digital architecture. Full circle. 😄
+
+---
+
+> ✨ *Let’s build meaningful web experiences together!*
