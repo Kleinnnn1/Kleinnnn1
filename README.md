@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenneth Jhun N. Balino</h1>
 <h3 align="center">
-  A Passionate Full-Stack Web Developer from 
+  A Passionate Full-Stack Web Developer from the
   Philippines
   <img src="https://flagcdn.com/w40/ph.png" width="22" alt="Philippines Flag" />
 </h3>
