@@ -6,8 +6,8 @@
 ### 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kleinnnn1&show_icons=true&theme=radical" style="width: 520px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleinnnn1&layout=compact&theme=radical" style="width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kleinnnn1&show_icons=true&theme=radical" style="width: 450px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleinnnn1&layout=compact&theme=radical" style="width: 350px;" />
 </div>
 
 
