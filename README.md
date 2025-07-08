@@ -55,7 +55,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://balino-kenn-portfolio.vercel.app" target="_blank">
+  <a href="https://kennbalino.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="mailto:kennbalino@gmail.com">
