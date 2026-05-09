@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kleinnnn1&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -12,4 +12,4 @@
 </div>
 
 
-
+ -->
